@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(212, 54, 54);
+}
+img{
+    width: 20rem;
+}
+.container{
+    width: 80%;
+    margin: 1rem auto;
+    
+}
+main{
+    display: flex;
+}
+.spiderman-container{
+    border: 0.3rem solid rgb(36, 36, 168);
+    width: 25rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    margin-right: 1rem;
+}
+.venom-container{
+    border: 0.3rem solid rgb(36, 36, 168);
+    width: 25rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-left: 1rem;
+}
+.points{
+    font-size: 1.5rem;
+}
+button{
+    background-color: rgb(209, 25, 25);
+    color: white;
+    border: none;
+    width: 7rem;
+    font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
